@@ -2,9 +2,9 @@
   <img src="Images/Spotify.svg" width="100" align="center">
   <h1>Spotify Readme</h1>
 
-[![Badge](https://img.shields.io/github/issues/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/issues)
-[![Badge](https://img.shields.io/github/forks/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/network)
-[![Badge](https://img.shields.io/github/stars/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/stargazers)
+[![Badge](https://img.shields.io/github/issues/nishantharkut/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/issues)
+[![Badge](https://img.shields.io/github/forks/nishantharkut/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/network)
+[![Badge](https://img.shields.io/github/stars/nishantharkut/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/stargazers)
 
 </div>
 
